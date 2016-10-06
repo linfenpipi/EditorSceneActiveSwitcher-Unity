@@ -3,3 +3,5 @@ Hierarchy上にチェックボックスを設置しそれでシーンのLoad、U
 
 
 It established a check box on the Hierarchy So the scene Load functions, is switching the UnLoad state
+
+![Demo](https://github.com/VENIEGAMES/EditorSceneActiveSwitcher-Unity/blob/master/demo.gif "Demo")
